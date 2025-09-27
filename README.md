@@ -25,7 +25,7 @@ The model is trained on the **MNIST dataset** and allows users to draw digits (0
 
 
 ## 🌐 Live Demo
-🔗 [Try the App on Render](<your-render-link>)  
+🔗 [Try the App on Render](https://cnn-digit-classifier-1.onrender.com/)  
 
 
 
@@ -46,13 +46,13 @@ cnn-digit-classifier/
 
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/<your-linkedin-username>/)  
-- 🐙 [GitHub](https://github.com/<your-username>)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-kamal-kandukuri-404288305)  
+- 🐙 [GitHub](https://github.com/kamal1128)  
 
 
 
 ## 🙌 Acknowledgments
-- Dataset: [MNIST](http://yann.lecun.com/exdb/mnist/)  
+- Dataset: [MNIST](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)  
 - Frameworks: TensorFlow, Streamlit  
 
 
